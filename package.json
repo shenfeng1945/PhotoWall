@@ -1,0 +1,13 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shenfeng1945/express-demo.git",
+  "author": "shenfeng1945 <823902826@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
